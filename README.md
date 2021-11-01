@@ -1,2 +1,2 @@
 # ReadImage-opencv
-read image with opencv
+read an image with opencv
